@@ -1,0 +1,93 @@
+
+.container{
+    margin: 0%;
+    padding: 0px;
+    text-align: center;
+    background: rgb(160 119 167);
+
+}
+.heading h1{
+    color: white;
+    font-size: 50px;
+
+}
+.heading{
+    padding-top: 60px;
+    color: rgb(15, 15, 15);
+    font-size: 20px;
+    margin: auto;
+    line-height: 50px;
+}
+.para{
+    margin: 40px;
+    line-height: 1.4;
+    font-weight: bold;
+}
+.sub-container{
+    max-width: 1200px;
+    margin: auto;
+    padding: 38px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(129, 34, 141);
+
+}
+.teams{
+    margin: 20px;
+    padding: 30px;
+    max-width: 40%;
+    cursor: pointer;
+    transition: 0.4s;
+    box-sizing: border-box;
+   
+}
+.teams:hover{
+    background: palevioletred;
+    border-radius: 12px;
+}
+.names{
+    color: white;
+    padding: 12px;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.about{
+    margin: 20px 0;
+    font-weight: normal;
+    color:rgb(12, 12, 12)
+}
+
+#form{
+    align-items: center;
+    margin-top: 10px;
+    color:rgb(17, 17, 17);
+    border-radius: 12px;
+    
+}
+.contact-head{
+    line-height: 2;
+   
+}
+.color h1{
+    color: white;
+    font-size: 50px;
+}
+.contact{
+    
+    width: 250px;
+    height: 40px;
+    border-radius:30px ;
+    color: white;
+    background-color: black;
+}
+.contact-box{
+     
+      padding-bottom: 40px;
+      
+}
+.color{
+    background-color: rgb(160 119 167);
+}
+
